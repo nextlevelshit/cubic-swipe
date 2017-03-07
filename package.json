@@ -1,0 +1,25 @@
+{
+  "name": "cubic-swipe",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nextlevelshit/cubic-swipe.git"
+  },
+  "author": "Michael Czechowski <mail@dailysh.it>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/nextlevelshit/cubic-swipe/issues"
+  },
+  "homepage": "https://github.com/nextlevelshit/cubic-swipe#readme"
+}
